@@ -1,0 +1,5 @@
+# Netlify / Cloudflare Pages: generated OG images are emitted without a file extension.
+/opengraph-image
+  Content-Type: image/png
+/twitter-image
+  Content-Type: image/png
